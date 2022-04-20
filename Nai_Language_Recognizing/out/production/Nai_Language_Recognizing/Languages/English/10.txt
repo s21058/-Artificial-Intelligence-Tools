@@ -1,0 +1,5 @@
+In the geometry of hyperbolic 3-space, the cubic-octahedral honeycomb is a compact uniform honeycomb, constructed from cube, octahedron, and cuboctahedron cells, in a rhombicuboctahedron vertex figure. It has a single-ring Coxeter diagram, CDel label4.pngCDel branch 10r.pngCDel 3ab.pngCDel branch.pngCDel label4.png, and is named by its two regular cells.
+
+A geometric honeycomb is a space-filling of polyhedral or higher-dimensional cells, so that there are no gaps. It is an example of the more general mathematical tiling or tessellation in any number of dimensions.
+
+Honeycombs are usually constructed in ordinary Euclidean ("flat") space, like the convex uniform honeycombs. They may also be constructed in non-Euclidean spaces, such as hyperbolic uniform honeycombs. Any finite uniform polytope can be projected to its circumsphere to form a uniform honeycomb in spherical space.
